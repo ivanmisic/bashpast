@@ -1,4 +1,4 @@
-#   Bashpast bookmarks your commands for easier invocation
+#   Bashpast bookmarks your commands for easier repeated invocation
 #   Copyright (C) 2017 Ivan Misic
 #
 #   This file is part of Bashpast.

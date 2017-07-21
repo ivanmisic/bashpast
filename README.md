@@ -1,5 +1,5 @@
 # Bashpast
-###  Bashpast bookmarks your commands for easier invocation
+###  Bashpast bookmarks your commands for easier repeated invocation
 
 * * *
 
